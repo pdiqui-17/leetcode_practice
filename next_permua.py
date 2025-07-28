@@ -11,8 +11,8 @@ def NextPermuatation(nums):
           break
 a = [1,2,3]
 NextPermuatation(a)
-print(a)
-          
+
+       
 
  
    
